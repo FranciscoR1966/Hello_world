@@ -1,1 +1,4 @@
 Hello world es el primer fichero de enasayo para trastear con git
+
+Con esta linea vamos a comprobar como quedan registrados los cambios.
+Cambios bonitos, baratos y buenos.
